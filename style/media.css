@@ -613,8 +613,8 @@ text-align: center;
         width: 100%;
         display: flex;
         justify-content: start;
-        margin-left: 10%;
-        margin-right: 10%;
+        padding-left: 10%;
+        /* margin-right: 10%; */
     }
     .margin744{
         margin-right: 10%;
@@ -806,9 +806,12 @@ text-align: center;
                     }
                     .right1024{
                         margin-top: 3%;
-                        width: 415px;
+                        width:100%;
                     }
                     .headlinepone{
+                        width: 90%;
+                        margin-left: auto;
+                        margin-right: auto;
                         margin-top: 0px;
                         font-family: 'Inter-regular';
                         color: white;
@@ -819,6 +822,9 @@ text-align: center;
                         text-align: center;
                     }
                     .headlineptwo{
+                        width: 90%;
+                        margin-left: auto;
+                        margin-right: auto;
                         margin-top: 16px;
                         font-family: 'Inter-regular';
                         color: white;
@@ -829,6 +835,9 @@ text-align: center;
                         text-align: center;   
                     }
                     .headlinepthree{
+                        width: 90%;
+                        margin-left: auto;
+                        margin-right: auto;
                         margin-top: 16px;
                         font-family: 'Inter-regular';
                         color: white;
@@ -839,6 +848,9 @@ text-align: center;
                         text-align: center; 
                     }
                     .headlinepfour{
+                        width: 90%;
+                        margin-left: auto;
+                        margin-right: auto;
                         margin-top: 16px;
                         font-family: 'Inter-regular';
                         color: white;
@@ -849,6 +861,9 @@ text-align: center;
                         text-align: center;
                     }
                     .headlinepfive{
+                        width: 90%;
+                        margin-left: auto;
+                        margin-right: auto;
                         margin-top: 16px;
                         font-family: 'Inter-regular';
                         color: white;
@@ -946,7 +961,7 @@ text-align: center;
                         display: none;
                     }
                     .respons{
-                        
+                        margin-left: 0;
                         display: flex;
                         justify-content: center;
                     }
@@ -954,8 +969,8 @@ text-align: center;
                         width: 100%;
                         display: flex;
                         justify-content: start;
-                        margin-left: 10%;
-                        margin-right: 10%;
+                        padding-left: 10%;
+                        margin-right: 0%;
                     }
                     .margin744{
                         margin-right: 10%;

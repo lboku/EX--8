@@ -190,7 +190,7 @@ text-align: left;
     height: 564px;
     background-image:url(../image/CTAImg-Desktop-1440px.jpg) ;
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
 }
 .mini-users{
 display: flex;
